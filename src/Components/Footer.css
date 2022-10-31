@@ -1,0 +1,59 @@
+*{
+    box-sizing: border-box;
+}
+
+.site-footer-wraper{
+    width: 100%;
+    height: auto;
+    display: flex;
+    margin-top: 3em;
+    justify-content: center;
+    background-color: rgb(213 , 161 ,255)
+}
+
+
+.site-footer-main{
+    display: flex;
+    width: 100%;
+    
+}
+
+.site-footer-logo{
+    width: 33%;
+    height: 5px;
+    margin-top: 3em;
+    padding-right: 35em;
+}
+
+.site-footer-main-info-helps-legal{
+    margin-top: 3em;
+    list-style: none;
+    /* width: 40%; */
+}
+
+.footer-info{
+    margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

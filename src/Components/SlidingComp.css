@@ -1,0 +1,30 @@
+
+.Nmae{
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 50px ;
+}
+
+.slick-slide > div{
+    margin: 0 10px;
+}
+.slick-list{
+    margin: 0 -10px;
+}
+
+.card{
+    border : 1px solid rgb(243, 21, 21);
+    background: pink;
+    border-radius: 8px;
+    overflow: hidden;
+
+    height: 400px;
+    color: #fff;
+}
+
+#card-top {
+   width: 100%;
+   height: 100%;
+    object-fit: cover;
+}
+
